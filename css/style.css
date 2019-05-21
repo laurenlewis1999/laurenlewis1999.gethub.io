@@ -1,5 +1,17 @@
-nav{font-family:Arial,Helvetica,sans-serif}
+nav
+{font-family:Arial,Helvetica,sans-serif}
 
+
+a:link, a:visited {
+  background-color: steelblue;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:link, 
 ul {font-family:arial ,helvetica, sans-serif}
 ul {color:steelblue}
 
