@@ -12,27 +12,27 @@ a:link, a:visited {
 }
 
 a:link, 
-ul {font-family:arial ,helvetica, sans-serif}
+ul {font-family: 'Lato', sans-serif;}
 ul {color:steelblue}
 
 body{background-color: mintcream}
 
 h1{ 
-font-family: Arial, Helvetica, sans-serif;}
+font-family: 'Open Sans', sans-serif;;}
 
 h1 {
     color:steelblue
 }
 
-ol{ font-family: Arial, Helvetica, sans-serif}
+ol{ font-family: 'Lato', sans-serif;}
 
 ol {color:steelblue}
 
-h2{font-family: Arial, Helvetica, sans-serif}
+h2{font-family: 'Open Sans', sans-serif;}
 h2{color:steelblue}
 
-p{ font-family: Arial,Helvetica, sans-serif}
+p{font-family: 'Lato', sans-serif;}
 p{color:steelblue}
 
-footer{ font-family: Arial, Helvetica, sans-serif}
+footer{font-family: 'Open Sans', sans-serif;}
 footer{color:steelblue}
