@@ -15,6 +15,11 @@ a:link,
 ul {font-family: 'Lato', sans-serif;}
 ul {color:steelblue}
 
+a:hover{
+    color:deepskyblue;   
+}
+
+
 body{background-color: aliceblue}
 
 h1{ 
@@ -36,3 +41,7 @@ p{color:steelblue}
 
 footer{font-family: 'Open Sans', sans-serif;}
 footer{color:steelblue}
+
+img {
+  border-radius: 8px;
+}
